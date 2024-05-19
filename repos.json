@@ -1,0 +1,13 @@
+{
+    "gradlew": [
+        "gradle",
+        "NewPipeExtractor",
+        "NiceHttp",
+        "OverlappingPanels",
+        "UniFile"
+    ],
+    "maven": [
+        "jadb",
+        "nanojson"
+    ]
+}
