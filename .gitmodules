@@ -1,0 +1,21 @@
+[submodule "gradle"]
+	path = gradle
+	url = https://github.com/LustyFlix/gradle.git
+[submodule "NiceHttp"]
+	path = NiceHttp
+	url = https://github.com/LustyFlix/NiceHttp.git
+[submodule "UniFile"]
+	path = UniFile
+	url = https://github.com/LustyFlix/UniFile.git
+[submodule "NewPipeExtractor"]
+	path = NewPipeExtractor
+	url = https://github.com/LustyFlix/NewPipeExtractor.git
+[submodule "OverlappingPanels"]
+	path = OverlappingPanels
+	url = https://github.com/LustyFlix/OverlappingPanels.git
+[submodule "jadb"]
+	path = jadb
+	url = https://github.com/LustyFlix/jadb.git
+[submodule "nanojson"]
+	path = nanojson
+	url = https://github.com/LustyFlix/nanojson.git
